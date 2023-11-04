@@ -1,2 +1,4 @@
-package org.example.model;public class Municipio {
+package org.example.model;
+
+public class Municipio {
 }

@@ -1,2 +1,4 @@
-package org.example.dto;public class aas {
+package org.example.dto;
+
+public class aas {
 }

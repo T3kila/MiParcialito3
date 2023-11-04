@@ -1,2 +1,4 @@
-package org.example.service.impl;public class aa {
+package org.example.service.impl;
+
+public class aa {
 }

@@ -1,2 +1,4 @@
-package org.example.repo;public class ala1 {
+package org.example.repo;
+
+public class ala1 {
 }

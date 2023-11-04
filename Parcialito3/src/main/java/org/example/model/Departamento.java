@@ -1,2 +1,4 @@
-package org.example.model;public class Departamento {
+package org.example.model;
+
+public class Departamento {
 }

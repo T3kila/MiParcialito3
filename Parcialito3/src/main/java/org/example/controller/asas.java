@@ -1,2 +1,4 @@
-package org.example.controller;public class asas {
-}
+package org.example.controller;
+
+public class asas }{
+        }
